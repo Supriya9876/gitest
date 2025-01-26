@@ -1,4 +1,4 @@
-package chatApplication;
+package chatApplication.chat;
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Font;
@@ -58,6 +58,7 @@ public class Client extends JFrame{
 
             @Override
             public void keyTyped(KeyEvent e) {
+                System.out.println(e);
                 // TODO Auto-generated method stub
 
             }
