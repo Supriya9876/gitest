@@ -42,7 +42,6 @@ public class serAuth {
             if (authenticate(username, password)) {
                 out.println("Authentication successful! You can now chat.");
                 System.out.println(username + " logged in.");
-                System.out.println("34566");
 
                 // Communication loop
                 String message;
