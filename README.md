@@ -4,10 +4,8 @@ This is a chat application that supports communication between users in real tim
 
 ## Features
 
-- Real-time messaging between users.
+- Real-time messaging between server and client.
 - User authentication (login/signup).
-- User authentication with JWT (JSON Web Tokens).
 - Support for multiple users in different chat rooms.
-- Message persistence (messages are stored in the database).
 
 ## Technologies Used - Java
